@@ -1,0 +1,10 @@
+C:\Users\BRAYAN HERNADEZ\Desktop\Visual Programas\Brayan Hernandez (Figuras)\Brayan Hernandez (Figuras)\bin\Debug\Brayan Hernandez (Figuras).exe.config
+C:\Users\BRAYAN HERNADEZ\Desktop\Visual Programas\Brayan Hernandez (Figuras)\Brayan Hernandez (Figuras)\bin\Debug\Brayan Hernandez (Figuras).exe
+C:\Users\BRAYAN HERNADEZ\Desktop\Visual Programas\Brayan Hernandez (Figuras)\Brayan Hernandez (Figuras)\bin\Debug\Brayan Hernandez (Figuras).pdb
+C:\Users\BRAYAN HERNADEZ\Desktop\Visual Programas\Brayan Hernandez (Figuras)\Brayan Hernandez (Figuras)\obj\Debug\Brayan Hernandez (Figuras).csprojAssemblyReference.cache
+C:\Users\BRAYAN HERNADEZ\Desktop\Visual Programas\Brayan Hernandez (Figuras)\Brayan Hernandez (Figuras)\obj\Debug\Brayan_Hernandez__Figuras_.Form1.resources
+C:\Users\BRAYAN HERNADEZ\Desktop\Visual Programas\Brayan Hernandez (Figuras)\Brayan Hernandez (Figuras)\obj\Debug\Brayan_Hernandez__Figuras_.Properties.Resources.resources
+C:\Users\BRAYAN HERNADEZ\Desktop\Visual Programas\Brayan Hernandez (Figuras)\Brayan Hernandez (Figuras)\obj\Debug\Brayan Hernandez (Figuras).csproj.GenerateResource.cache
+C:\Users\BRAYAN HERNADEZ\Desktop\Visual Programas\Brayan Hernandez (Figuras)\Brayan Hernandez (Figuras)\obj\Debug\Brayan Hernandez (Figuras).csproj.CoreCompileInputs.cache
+C:\Users\BRAYAN HERNADEZ\Desktop\Visual Programas\Brayan Hernandez (Figuras)\Brayan Hernandez (Figuras)\obj\Debug\Brayan Hernandez (Figuras).exe
+C:\Users\BRAYAN HERNADEZ\Desktop\Visual Programas\Brayan Hernandez (Figuras)\Brayan Hernandez (Figuras)\obj\Debug\Brayan Hernandez (Figuras).pdb
